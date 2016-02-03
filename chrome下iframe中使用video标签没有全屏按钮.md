@@ -1,0 +1,2 @@
++ 在IE11和chrome中使用iframe标签包裹video标签，则默认没有全屏按钮，需要在iframe上添加allowfullscreen才可以。
++ 而在safari中则默认可以使用。

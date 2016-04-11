@@ -1,6 +1,5 @@
 # JS相关
-+ [两类空格引起的bug](./src/js/两类空格引起的bug.md "两类空格引起的bug")
-
++ [两类空格引起的bug](./src/js/两类空格引起的bug.md "两类空格引起的bug1")
 # HTML相关
 + [chrome下iframe中使用video标签没有全屏按钮](./src/chrome下iframe中使用video标签没有全屏按钮.md "chrome下iframe中使用video标签没有全屏按钮")
 
